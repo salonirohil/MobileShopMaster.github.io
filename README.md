@@ -4,7 +4,7 @@ This is a static website for a mobile shop, built using HTML, CSS, JS, Bootstrap
 
 ## Demo
 
-Check out the [live demo](https://alaa-abdallah1.github.io/mobile-shop) of the website
+Check out the [live demo](https://salonirohillamobileshop.netlify.app/) of the website
 
 ## Screenshots
 
